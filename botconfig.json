@@ -1,0 +1,7 @@
+{
+  "bot_name": "cihelper_bot",
+  "api_token": "xoxb-<etc>",
+  "listen_userid": "<USERID>",
+  "trackfile": "cibot-state.json",
+  "debug_rules": true
+}
